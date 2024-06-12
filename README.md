@@ -10,7 +10,7 @@ En el directorio del proyecto, puede ejecutar:
 Ejecuta la aplicación en modo de desarrollo.  
 Abra [http://localhost:3000](http://localhost:3000) para verlo en su navegador.
 
-La página se recargará cuando realice cambios. También es posible que vea errores de pelusa en la consola.
+La página se recargará cuando realice cambios. También es posible que vea errores de linting en la consola.
 
 ### `npm test`
 Inicia el corredor de pruebas en el modo de reloj interactivo.  
@@ -32,7 +32,7 @@ Si no está satisfecho con la herramienta de compilación y las opciones de conf
 
 En su lugar, copiará todos los archivos de configuración y las dependencias transitivas (webpack, Babel, ESLint, etc.) directamente en su proyecto para que tenga control total sobre ellos. Todos los comandos excepto `eject` seguirán funcionando, pero apuntarán a los scripts copiados para que puedas modificarlos. En este punto, estás solo.
 
-No es necesario que uses nunca `eject`. El conjunto de funciones seleccionado es adecuado para implementaciones pequeñas y medianas, y no debería sentirse obligado a utilizar esta función. Sin embargo, entendemos que esta herramienta no sería útil si no pudiera personalizarla cuando esté listo para hacerlo.
+No es necesario que uses nunca `eject`. El conjunto de funciones seleccionado es adecuado para implementaciones pequeñas y medianas, y no deberías sentirte obligado a utilizar esta función. Sin embargo, entendemos que esta herramienta no sería útil si no pudiera personalizarla cuando estés listo para hacerlo.
 
 ## Aprende más
 
@@ -41,19 +41,19 @@ Puede obtener más información en la [documentación de Create React App](https
 Para aprender más sobre React, consulte la [documentación de React](https://reactjs.org/).
 
 ### División de código
-Esta sección se ha movido aquí: [Code Splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Esta sección se ha movido aquí: [División de Código](https://facebook.github.io/create-react-app/docs/code-splitting)
 
 ### Analizando el tamaño del paquete
-Esta sección se ha movido aquí: [Analyzing the Bundle Size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Esta sección se ha movido aquí: [Analizando el Tamaño del Paquete](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Crear una aplicación web progresiva
-Esta sección se ha movido aquí: [Making a Progressive Web App](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Esta sección se ha movido aquí: [Crear una Aplicación Web Progresiva](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
 ### Configuración avanzada
-Esta sección se ha movido aquí: [Advanced Configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Esta sección se ha movido aquí: [Configuración Avanzada](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Despliegue
-Esta sección se ha movido aquí: [Deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Esta sección se ha movido aquí: [Despliegue](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` no logra minimizar
-Esta sección se ha movido aquí: [Troubleshooting: `npm run build` fails to minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Esta sección se ha movido aquí: [Solución de Problemas: `npm run build` no logra minimizar](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
