@@ -7,7 +7,7 @@
 html,
 body {
   color: white;
-  background-color: #1b1b32;
+  background-color: #1b2f32;
   font-family: Lato, sans-serif;
   margin-top: 40px;
 }
@@ -27,19 +27,6 @@ h1 {
   align-items: center;
 }
 
-/* Logo de freeCodeCamp */
-
-.freecodecamp-logo-contenedor {
-  width: 100%;
-  margin: 20px;
-  display: flex;
-  align-items: center;
-}
-
-.freecodecamp-logo {
-  width: 400px;
-  height: 50px;
-}
 
  /* Lista de tareas */
 
